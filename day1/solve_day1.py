@@ -1,5 +1,3 @@
-import csv
-
 expense_report = []
 
 with open('input.txt', 'r') as f:
